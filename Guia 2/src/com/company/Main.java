@@ -68,8 +68,35 @@ public class Main {
         System.out.println("Monto final: " + factura2.calcularMontoFinal());
 
 
+        System.out.println("\n--------------------- Ejercicio 3 ----------------------");
+
+        // a)
+        ClienteEj3 clienteMario = new ClienteEj3("mario",'M');
+        System.out.println(clienteMario.toString());
+
+        // b)
+        String[] operaciones = new String[10];
+    Cuenta cuenta1 = new Cuenta(10000,clienteMario,operaciones);
+        // c)
 
 
+        System.out.println(cuenta1.getBalance());
+        cuenta1.depositar(5000);
+        System.out.println("Agregamos 5000 pesos...");
+        System.out.println(cuenta1.getBalance());
+        cuenta1.extraer(7000);
+        System.out.println("Extraemos 7000 pesos...");
+        System.out.println(cuenta1.getBalance());
+        System.out.println("Extraemos 10000 pesos...");
+        cuenta1.extraer(10000);
+        System.out.println(cuenta1.getBalance());
+        System.out.println("Extraemos 200 pesos...");
+        cuenta1.extraer(200);
+        System.out.println(cuenta1.getBalance());
+        cuenta1.depositar(5000);
+        cuenta1.depositar(5000);
+
+        cuenta1.printOperaciones();
 
 
 
