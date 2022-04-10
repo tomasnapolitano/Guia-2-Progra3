@@ -17,7 +17,15 @@ public class ItemVenta {
         this.precioUnitario = precioUnitario;
     }
 
-
+    @Override
+    public String toString() {
+        return "ItemVenta{" +
+                "id=" + id +
+                ", nombre='" + nombre + '\'' +
+                ", descripcion='" + descripcion + '\'' +
+                ", precioUnitario=" + precioUnitario +
+                '}';
+    }
 
     public UUID getId() {
         return id;

@@ -62,6 +62,8 @@ public class Main {
 
         Factura factura2 = new Factura(items2,cliente1);
 
+        System.out.println(factura2);
+
         System.out.println("Monto total: " + factura2.getMontoTotal());
         System.out.println("Monto final: " + factura2.calcularMontoFinal());
 

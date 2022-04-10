@@ -15,10 +15,10 @@ public class Factura {
 
     public Factura(ItemVenta[] items, Cliente comprador) {
         this.id = UUID.randomUUID();
+        this.items = items;
         this.montoTotal = calcularMontoTotal();
         this.fecha = LocalDateTime.now();
         this.comprador = comprador;
-        this.items = items;
     }
 
     @Override
