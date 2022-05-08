@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efbcc521-1735-4f22-bf10-8e6212dbe807" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Alquilable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Biblioteca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Diario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Ejemplar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Genero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Revista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/Alquiler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/Clasificacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/Genero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/VideoStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Guia 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guia 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParcialInstrumentos/src/com/company/Amplificado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParcialInstrumentos/src/com/company/Bajo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParcialInstrumentos/src/com/company/Bateria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParcialInstrumentos/src/com/company/GuitAcustica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParcialInstrumentos/src/com/company/GuitElectrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParcialInstrumentos/src/com/company/Instrumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParcialInstrumentos/src/com/company/Madera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParcialInstrumentos/src/com/company/deCuerda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
