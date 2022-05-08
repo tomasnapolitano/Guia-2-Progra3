@@ -2,24 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efbcc521-1735-4f22-bf10-8e6212dbe807" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Guia 2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guia 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ejercicio1/Cilindro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ejercicio1/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ejercicio2/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ejercicio2/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ejercicio2/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ejercicio3/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ejercicio3/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ejercicio3/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ejercicio3/Rectangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Alquilable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Diario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Ejemplar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Genero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio Repaso Parcial/src/com/company/Revista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/Alquiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/Clasificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/Genero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guia4/src/com/company/VideoStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guia 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,17 +117,6 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
